@@ -1,4 +1,4 @@
-# COVID_On_The_Run
+# COVID_Variant_Tracker
 US COVID Tracker
 
 
